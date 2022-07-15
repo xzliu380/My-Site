@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  background-color: #FFF89A;
+  text-align: center;
+  font-family: 'Times New Roman',serif;
+}
+div{
+width: 200px;
+height: 200px;
+}
+.top{
+  background-color: #086E7D;;
+}
+.bottom{
+  background-color: #1A5F7A;
+}
+.intro{
+  background-color: #FFF89A;
+
+}
+.links{
+  position: fixed;
+  background-color: #1A5F7A;
+  display: block;
+  color: white;
+  table-layout: auto;
+  width: 100%;
+
+
+}
+h2{
+    font-family: 'Merriweather', cursive;
+    font-size: 50px;
+    color: #2F3A8F;
+}
+a{
+  color: white;
+  text-decoration: none;
+}
+td{
+  width: 5%;
+}
+img{
+  width: 100px;
+  height: 100px;
+}
+.medium{
+  width: 10%;
+
+}
+.large{
+  width:14%;
+}
+.smoke-alarm{
+  width: 500px;
+  height: 500px;
+}
+.trophes{
+  width: 350px;
+  height: 600px;
+}
+.code{
+  display: inline;
+}
+.story{
+  width: 50%;
+  text-align: center;
+  display: inline-block;
+}
+.Arduino{
+  width: 750px;
+  height: 750px;
+}
+.email{
+  width:10%;
+}
+.yt-link-real{
+  color: #8946A6;
+  text-decoration: underline;
+}
+h1{
+  margin: 100px auto 0 auto;
+  font-family: 'Merriweather', cursive;
+  font-size: 60px;
+  color: #086E7D;
+}
+p{
+  font-family: 'Times New Roman',serif;
+  font-size: 20px;
+  color: #2F3A8F;
+}
+.index{
+  width: 400px;
+  height: 400px;
+}
+.yt-link{
+  text-decoration: none;
+  color: #2F3A8F;
+}
+table{
+  text-align: center;
+}
